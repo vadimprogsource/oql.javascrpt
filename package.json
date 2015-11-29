@@ -1,0 +1,39 @@
+{ 
+  "name": "Oql", 
+   "version": "0.1.0", 
+   "description":  "building object query for javascript", 
+   "main": "index.js", 
+   "scripts": 
+    { 
+     "test": "echo \"Error: no test specified\" && exit 1" 
+    }, 
+   
+  "repository": 
+   { 
+     "type": "git", 
+     "url": "https://github.com/vadimdementey/queryBuilder.JavaScript" 
+   },
+ 
+   "keywords": 
+    [ 
+     "appium", 
+     "test", 
+     "app" 
+    ],
+ 
+   "author": "dementey vadim", 
+   "license": "apache-2.0", 
+   "bugs": 
+   { 
+     "url": "https://github.com/vadimdementey/queryBuilder.JavaScript" 
+   }, 
+   
+   "homepage": "https://github.com/vadimdementey/queryBuilder.JavaScript", 
+   
+   "optionalDependencies": 
+   { 
+   }, 
+   "dependencies": 
+   { 
+   } 
+ } 
